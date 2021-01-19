@@ -1,6 +1,6 @@
 (NOTE: the Medium_Data_Extraction_Key.json file must be stored in the same directory as the .py file)
 
-# Portfolio
+# Excited Bear
 AIM: Create a program that downloads data from google sheets, cleans it and plots it every day, automatically.
 
 Program downloads data from google sheets then cleans and plots it every day. In addition,
