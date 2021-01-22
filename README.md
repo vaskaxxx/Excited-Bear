@@ -1,4 +1,4 @@
-(NOTE: the Medium_Data_Extraction_Key.json file must be stored in the same directory as the .py file)
+(NOTE: the google API key is provided upon reuqest)
 
 # Excited Bear
 AIM: Create a program that downloads data from google sheets, cleans it and plots it every day, automatically.
